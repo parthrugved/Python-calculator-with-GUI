@@ -23,7 +23,7 @@ This is a powerful, all-in-one Python GUI app that combines a full-featured scie
 
 <img  height="400" alt="Screenshot 2025-09-22 222152" src="https://github.com/user-attachments/assets/de44abde-e512-4617-ae15-9870333f1569" />
 <br>
-<img width="1912" height="1000" alt="Screenshot 2025-09-27 110658" src="https://github.com/user-attachments/assets/0f3e96e6-4c2c-4c58-96d8-9adb4453e646" />
+<img  height="400" alt="Screenshot 2025-09-27 110658" src="https://github.com/user-attachments/assets/0f3e96e6-4c2c-4c58-96d8-9adb4453e646" />
 
 
 ## 🧠 Creator
