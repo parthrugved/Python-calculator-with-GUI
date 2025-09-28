@@ -8,10 +8,6 @@ This is a powerful, all-in-one Python GUI app that combines a full-featured scie
   - Keyboard input support
   - History tracking panel
   - Advanced operations (trigonometry, logarithms, powers, etc.)
-- Currency converter with:
-  - Live exchange rates via API
-  - Clean input/output interface
-  - Support for multiple currencies
 - Unified and responsive GUI
 - Built using Python and [ framework: Tkinter]
 
